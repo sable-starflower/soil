@@ -4,7 +4,7 @@
   "repo": "sable-starflower/soil",
   "description": "Simple OpenGL Image Library",
   "keywords": ["soil", "opengl", "gl", "image"],
-  "configure": "./configure",
+  "configure": "chmod +x configure && ./configure",
   "makefile": "Makefile.in",
   "src": [
    "include/SOIL/SOIL.h",
