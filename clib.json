@@ -1,10 +1,10 @@
 {
   "name": "SOIL",
-  "version": "0.1.1",
-  "repo": "littlstar/soil",
+  "version": "0.1.1-sable",
+  "repo": "sable-starflower/soil",
   "description": "Simple OpenGL Image Library",
   "keywords": ["soil", "opengl", "gl", "image"],
-  "configure": "configure",
+  "configure": "./configure",
   "makefile": "Makefile.in",
   "src": [
    "include/SOIL/SOIL.h",
