@@ -1,4 +1,4 @@
-Simple OpenGL Image Library (SOIL)
+Sable's OpenGL Image Library (SOIL)
 ==================================
 
 ## Fork Information
