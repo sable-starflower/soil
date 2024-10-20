@@ -1,6 +1,6 @@
 {
   "name": "SOIL",
-  "version": "0.1.1-sable",
+  "version": "0.1.1-sable2",
   "repo": "sable-starflower/soil",
   "description": "Simple OpenGL Image Library",
   "keywords": ["soil", "opengl", "gl", "image"],
