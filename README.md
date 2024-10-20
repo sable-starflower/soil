@@ -1,6 +1,10 @@
 Simple OpenGL Image Library (SOIL)
 ==================================
 
+## Fork Information
+
+This is a fork of SOIL that fixes issues with installation via clib.
+
 ## Introduction
 
 SOIL is a tiny C library used primarily for uploading textures into OpenGL.
